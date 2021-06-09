@@ -2,7 +2,7 @@
 :showtitle:
 :imagesdir: images
 :revnumber: 2.0
-:revdate: September 22, 2020
+:revdate: June 9, 2021
 :xrefstyle: short
 
 == CCUF Principles
